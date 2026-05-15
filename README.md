@@ -2,10 +2,10 @@
 
 ## Project Context / Projektkontext
 **English:** This repository is the technical realization of the "Café Teheran to Tokyo" CRM system. It transforms strategic business analysis into a robust SQL Server database. This implementation covers the full lifecycle from business logic to database automation.
-🔗 **Link to Strategic Analysis:** [CRM-Strategy-Portfolio](https://github.com/SiamakGoudarzi/CRM-Strategy-Portfolio/tree/main/01-Teheran-to-Tokyo-Cafe)
+🔗 **Link to Strategic Analysis:** [Specialty-Cafe-Strategy-Berlin](https://github.com/SiamakGoudarzi/Specialty-Cafe-Strategy-Berlin)
 
 **Deutsch:** Dieses Repository ist die technische Umsetzung des CRM-Systems für das "Café Teheran to Tokyo". Es transformiert die strategische Geschäftsanalyse in eine robuste SQL Server-Datenbank. Diese Implementierung deckt den gesamten Lebenszyklus von der Geschäftslogik bis zur Datenbankautomatisierung ab.
-🔗 **Link zur strategischen Analyse:** [CRM-Strategy-Portfolio](https://github.com/SiamakGoudarzi/CRM-Strategy-Portfolio/tree/main/01-Teheran-to-Tokyo-Cafe)
+🔗 **Link zur strategischen Analyse:** [Specialty-Cafe-Strategy-Berlin](https://github.com/SiamakGoudarzi/Specialty-Cafe-Strategy-Berlin)
 
 ---
 
